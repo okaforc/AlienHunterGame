@@ -1,2 +1,2 @@
 # AlienHunterGame
-:O
+This is an implementation of the Alien Hunter Game
